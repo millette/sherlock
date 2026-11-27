@@ -1,14 +1,16 @@
+APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitHub
 HackerNews
 Hashnode
 Hubski
@@ -22,6 +24,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -43,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
